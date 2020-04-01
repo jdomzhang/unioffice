@@ -1,3 +1,3 @@
-module github.com/unidoc/unioffice
+module github.com/yansuan/unioffice
 
 go 1.14

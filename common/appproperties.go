@@ -10,8 +10,8 @@ package common
 import (
 	"fmt"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/ofc/extended_properties"
+	"github.com/yansuan/unioffice"
+	"github.com/yansuan/unioffice/schema/soo/ofc/extended_properties"
 )
 
 // AppProperties contains properties specific to the document and the
@@ -24,7 +24,7 @@ type AppProperties struct {
 func NewAppProperties() AppProperties {
 	p := AppProperties{x: extended_properties.NewProperties()}
 	p.SetCompany("FoxyUtils ehf")
-	p.SetApplication("github.com/unidoc/unioffice")
+	p.SetApplication("github.com/yansuan/unioffice")
 	p.SetDocSecurity(0)
 	p.SetLinksUpToDate(false)
 

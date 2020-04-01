@@ -14,9 +14,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/yansuan/unioffice"
+	"github.com/yansuan/unioffice/schema/soo/dml"
+	"github.com/yansuan/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Presentation struct {

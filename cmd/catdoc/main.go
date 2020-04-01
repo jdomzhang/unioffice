@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/unidoc/unioffice/document"
+	"github.com/yansuan/unioffice/document"
 )
 
 func main() {

@@ -4,10 +4,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/document"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/yansuan/unioffice/color"
+	"github.com/yansuan/unioffice/document"
+	"github.com/yansuan/unioffice/measurement"
+	"github.com/yansuan/unioffice/schema/soo/wml"
 )
 
 func main() {

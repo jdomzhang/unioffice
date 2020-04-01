@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"github.com/unidoc/unioffice/schema/soo/wml"
+	"github.com/yansuan/unioffice/schema/soo/wml"
 )
 
 func TestWdCT_InlineConstructor(t *testing.T) {

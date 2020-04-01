@@ -12,7 +12,7 @@ package dml
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
+	"github.com/yansuan/unioffice"
 )
 
 type EG_LineJoinProperties struct {

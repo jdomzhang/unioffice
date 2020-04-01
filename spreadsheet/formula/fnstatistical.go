@@ -11,7 +11,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/unidoc/unioffice"
+	"github.com/yansuan/unioffice"
 )
 
 func init() {

@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/yansuan/unioffice/schema/soo/ofc/sharedTypes"
 )
 
 type OfcCT_StrokeChild struct {

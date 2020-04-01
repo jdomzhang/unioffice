@@ -7,7 +7,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/unidoc/unioffice/document"
+	"github.com/yansuan/unioffice/document"
 )
 
 func main() {

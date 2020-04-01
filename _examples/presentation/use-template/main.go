@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/schema/soo/pml"
+	"github.com/yansuan/unioffice/color"
+	"github.com/yansuan/unioffice/schema/soo/pml"
 
-	"github.com/unidoc/unioffice/presentation"
+	"github.com/yansuan/unioffice/presentation"
 )
 
 func main() {

@@ -21,14 +21,14 @@ import (
 	"path"
 	"strings"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/common"
-	"github.com/unidoc/unioffice/measurement"
-	"github.com/unidoc/unioffice/schema/soo/dml"
-	"github.com/unidoc/unioffice/schema/soo/ofc/sharedTypes"
-	"github.com/unidoc/unioffice/schema/soo/pkg/relationships"
-	"github.com/unidoc/unioffice/schema/soo/pml"
-	"github.com/unidoc/unioffice/zippkg"
+	"github.com/yansuan/unioffice"
+	"github.com/yansuan/unioffice/common"
+	"github.com/yansuan/unioffice/measurement"
+	"github.com/yansuan/unioffice/schema/soo/dml"
+	"github.com/yansuan/unioffice/schema/soo/ofc/sharedTypes"
+	"github.com/yansuan/unioffice/schema/soo/pkg/relationships"
+	"github.com/yansuan/unioffice/schema/soo/pml"
+	"github.com/yansuan/unioffice/zippkg"
 )
 
 // Presentation is the a presentation base document.

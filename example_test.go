@@ -1,8 +1,8 @@
 package unioffice_test
 
 import (
-	"github.com/unidoc/unioffice/document"
-	"github.com/unidoc/unioffice/spreadsheet"
+	"github.com/yansuan/unioffice/document"
+	"github.com/yansuan/unioffice/spreadsheet"
 )
 
 func Example_document() {

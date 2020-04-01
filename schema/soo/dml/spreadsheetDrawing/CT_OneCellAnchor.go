@@ -12,8 +12,8 @@ package spreadsheetDrawing
 import (
 	"encoding/xml"
 
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/schema/soo/dml"
+	"github.com/yansuan/unioffice"
+	"github.com/yansuan/unioffice/schema/soo/dml"
 )
 
 type CT_OneCellAnchor struct {

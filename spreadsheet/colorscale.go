@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"github.com/unidoc/unioffice"
-	"github.com/unidoc/unioffice/color"
-	"github.com/unidoc/unioffice/schema/soo/sml"
+	"github.com/yansuan/unioffice"
+	"github.com/yansuan/unioffice/color"
+	"github.com/yansuan/unioffice/schema/soo/sml"
 )
 
 // ColorScale colors a cell background based off of the cell value.

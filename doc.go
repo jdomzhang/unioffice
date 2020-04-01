@@ -26,4 +26,4 @@ The packages of interest are github.com/unidoc/unioffice/document,
 unidoc/unioffice/spreadsheet and github.com/unidoc/unioffice/presentation.
 
 */
-package unioffice // import "github.com/unidoc/unioffice"
+package unioffice // import "github.com/yansuan/unioffice"

@@ -32,7 +32,7 @@ func main() {
 	ph, _ := sld.GetPlaceholder(pml.ST_PlaceholderTypeTitle)
 	ph.SetText("Using gooxml")
 	ph, _ = sld.GetPlaceholder(pml.ST_PlaceholderTypeBody)
-	ph.SetText("Created with github.com/unidoc/unioffice/")
+	ph.SetText("Created with github.com/yansuan/unioffice/")
 
 	tac, _ := ppt.GetLayoutByName("Title and Content")
 

@@ -21,10 +21,10 @@ import (
 	"strings"
 
 	"github.com/yansuan/unioffice"
-	"github.com/yansuan/unioffice/color"
+	// "github.com/yansuan/unioffice/color"
 	"github.com/yansuan/unioffice/common"
 	// "github.com/yansuan/unioffice/common/license"
-	"github.com/yansuan/unioffice/measurement"
+	// "github.com/yansuan/unioffice/measurement"
 	"github.com/yansuan/unioffice/zippkg"
 
 	"github.com/yansuan/unioffice/schema/soo/dml"

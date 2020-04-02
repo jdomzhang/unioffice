@@ -10,7 +10,8 @@ package document
 import (
 	"archive/zip"
 	"errors"
-	"flag"
+
+	// "flag"
 	"fmt"
 	"image"
 	"image/jpeg"
